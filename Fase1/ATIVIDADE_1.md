@@ -28,7 +28,7 @@ O time de TI é muito competente, e consegue fazer isso rapidamente com poucas l
 Faça um script bash que crie os usuários seguindo as especificações:
 
 1) No total, são 66 funcionários, numerados de 1000 até 1066. 
-- O usuário 1000 é o José Gota
+- O usuário 5000 é o José Gota
 - Os usuários 1001-1015 são da administração, nomeados como admXX, sendo XX números 01 até 15.
 - Os usuários 2001-2030 são enfermeiros, nomeados enfermeiroXX, sendo XX números 01 até 30.
 - Os usuários 3001-3020 são médicos, nomeados medXX, sendo XX números 01 até 20.
